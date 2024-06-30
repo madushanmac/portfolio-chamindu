@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Chamindu, a Web/Mobile Apps Developer based in Croatia.
+            Hi I&apos;m Chamindu, a Web/Mobile Apps Developer based on Flutter and MERN Stack.
           </p>
 
           <a href="#about">
