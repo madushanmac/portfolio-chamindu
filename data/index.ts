@@ -92,7 +92,7 @@ export const projects = [
     des: "MCSB Bank is dedicated to providing exceptional banking services tailored to meet your unique financial needs. With a wide range of products and services, including personal banking, business solutions, and wealth management, we strive to offer secure, convenient, and innovative banking experiences. ",
     img: "/mcsb.png",
     iconLists: ["/css.svg", "/html.svg", "/google.svg"],
-    link: "/https://lively-flan-a3bbe6.netlify.app/",
+    link: "https://lively-flan-a3bbe6.netlify.app/",
   },
   {
     id: 6,
@@ -108,7 +108,7 @@ export const projects = [
     des: "Pet Food Web is an interactive and user-friendly website designed to provide information about various pet foods. It aims to help pet owners find the best food for their pets based on their needs and preferences. The website features product descriptions, nutritional information, customer reviews, and a shopping cart for purchasing items..",
     img: "/pet.png",
     iconLists: ["/html.svg", "/tail.svg", "/css.svg", "/google.svg", "/c.svg"],
-    link: "/https://radiant-malabi-e89a38.netlify.app/",
+    link: "https://radiant-malabi-e89a38.netlify.app/",
   },
   {
     id: 4,
@@ -116,7 +116,7 @@ export const projects = [
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/bna.png",
     iconLists: ["/google.svg", "/wp.svg", "/html.svg", "/css.svg", "/c.svg"],
-    link: "/https://bnaauction.lk/",
+    link: "https://bnaauction.lk/",
   },
 ];
 
