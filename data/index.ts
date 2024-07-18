@@ -107,18 +107,6 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Working with Chamindu was an incredible experience. His attention to detail, timely communication, and commitment to producing high-quality work were remarkable. Chamindu's passion for every aspect of development truly sets him apart. If you're looking to enhance your website and elevate your brand, Chamindu is the perfect partner.",
-    name: "Nimal Perera",
-    title: "CEO of LankaTech Solutions",
-  },
-  {
-    quote:
-      "Chamindu's collaboration on our project was exceptional. His professionalism, swift responses, and dedication to achieving outstanding results were evident throughout our engagement. Chamindu's enthusiasm for development is truly inspiring. For anyone looking to improve their website and strengthen their brand, Chamindu is the ideal choice.",
-    name: "Priya Wijesekara",
-    title: "Managing Director of Serendib Innovations",
-  },
-  {
-    quote:
       "Teaming up with Chamindu was an absolute delight. His expertise, promptness, and unwavering commitment to delivering excellent outcomes were consistent throughout our project. Chamindu's enthusiasm for every element of development is noteworthy. If you need to upgrade your website and boost your brand, Chamindu is your go-to professional.",
     name: "Buddika   Fernando",
     title: "Founder of Ceylon Cloud PVT",
@@ -126,8 +114,8 @@ export const testimonials = [
   {
     quote:
       "Collaborating with Chamindu was a fantastic experience. His meticulous approach, timely responses, and dedication to achieving superior results were apparent during our project. Chamindu's passion for development is truly commendable. If you're aiming to enhance your website and elevate your brand, Chamindu is the ideal partner.",
-    name: "Sunethra Jayawardene",
-    title: "Director of TechWave Sri Lanka",
+    name: "Chamika Dilshan",
+    title: "Owner of E-Zone Academic Institute, Sri Lanka",
   },
 ];
 
