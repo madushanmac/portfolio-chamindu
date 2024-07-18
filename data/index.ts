@@ -74,9 +74,9 @@ export const projects = [
     id: 1,
     title: "EV Charge App/Mobile ",
     des: "Explore the wonders of super charge system with this mobile app by using charging points.",
-    img: "/p1.svg",
+    img: "/octegenteas.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://octagenteas.com/index.html",
   },
   {
     id: 2,
@@ -120,7 +120,7 @@ export const testimonials = [
   {
     quote:
       "Teaming up with Chamindu was an absolute delight. His expertise, promptness, and unwavering commitment to delivering excellent outcomes were consistent throughout our project. Chamindu's enthusiasm for every element of development is noteworthy. If you need to upgrade your website and boost your brand, Chamindu is your go-to professional.",
-    name: "Buddika Fernando",
+    name: "Buddika   Fernando",
     title: "Founder of Ceylon Cloud PVT",
   },
   {
@@ -132,36 +132,36 @@ export const testimonials = [
 ];
 
 export const companies = [
-  {
-    id: 1,
-    name: "cloud",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
-  },
-  {
-    id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
-  },
-  {
-    id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
-  },
-  {
-    id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
-  },
-  {
-    id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
-  },
+  // {
+  //   id: 1,
+  //   name: "cloud",
+  //   img: "/cloud.svg",
+  //   nameImg: "/cloudName.svg",
+  // },
+  // {
+  //   id: 2,
+  //   name: "appwrite",
+  //   img: "/app.svg",
+  //   nameImg: "/appName.svg",
+  // },
+  // {
+  //   id: 3,
+  //   name: "HOSTINGER",
+  //   img: "/host.svg",
+  //   nameImg: "/hostName.svg",
+  // },
+  // {
+  //   id: 4,
+  //   name: "stream",
+  //   img: "/s.svg",
+  //   nameImg: "/streamName.svg",
+  // },
+  // {
+  //   id: 5,
+  //   name: "docker.",
+  //   img: "/dock.svg",
+  //   nameImg: "/dockerName.svg",
+  // },
 ];
 
 export const workExperience = [
