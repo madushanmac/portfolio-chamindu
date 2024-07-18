@@ -72,22 +72,6 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "EV Charge App/Mobile ",
-    des: "Explore the wonders of super charge system with this mobile app by using charging points.",
-    img: "/octegenteas.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://octagenteas.com/index.html",
-  },
-  {
-    id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
-  },
-  {
-    id: 3,
     title: "AI Image SaaS - Canva Application",
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/p3.svg",
@@ -95,12 +79,44 @@ export const projects = [
     link: "/ui.aiimg.com",
   },
   {
-    id: 4,
+    id: 2,
     title: "Animated Apple Iphone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/ui.apple.com",
+  },
+  {
+    id: 5,
+    title: "Animated Apple Iphone 3D Website",
+    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    img: "/mcsb.png",
+    iconLists: ["/css.svg", "/html.svg", "/google.svg"],
+    link: "/https://lively-flan-a3bbe6.netlify.app/",
+  },
+  {
+    id: 6,
+    title: "Octegen Teas Web  ",
+    des: "At Octegen Teas, we bring you the finest selection of handpicked teas from the lush hills of Sri Lanka. Our commitment to quality ensures that every sip is a journey through tradition and innovation.",
+    img: "/octegenteas.png",
+    iconLists: ["/css.svg", "/html.svg", "/google.svg"],
+    link: "https://octagenteas.com/index.html",
+  },
+  {
+    id: 7,
+    title: "Pet Food Web using html css js ",
+    des: "Pet Food Web is an interactive and user-friendly website designed to provide information about various pet foods. It aims to help pet owners find the best food for their pets based on their needs and preferences. The website features product descriptions, nutritional information, customer reviews, and a shopping cart for purchasing items..",
+    img: "/pet.png",
+    iconLists: ["/html.svg", "/tail.svg", "/css.svg", "/google.svg", "/c.svg"],
+    link: "/https://radiant-malabi-e89a38.netlify.app/",
+  },
+  {
+    id: 4,
+    title: "BNA Auto auction Web",
+    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    img: "/bna.png",
+    iconLists: ["/google.svg", "/wp.svg", "/html.svg", "/css.svg", "/c.svg"],
+    link: "/https://bnaauction.lk/",
   },
 ];
 
@@ -169,7 +185,7 @@ export const workExperience = [
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
+    title: "Freelance App Development",
     desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
