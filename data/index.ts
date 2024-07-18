@@ -113,7 +113,7 @@ export const projects = [
   {
     id: 4,
     title: "BNA Auto auction Web",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    des: "BNA Auto Auction offers a dynamic and transparent auction experience, bringing together buyers and sellers of high-quality vehicles. ",
     img: "/bna.png",
     iconLists: ["/google.svg", "/wp.svg", "/html.svg", "/css.svg", "/c.svg"],
     link: "https://bnaauction.lk/",
