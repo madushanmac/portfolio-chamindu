@@ -88,8 +88,8 @@ export const projects = [
   },
   {
     id: 5,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    title: "MCSB Bank Web Site",
+    des: "MCSB Bank is dedicated to providing exceptional banking services tailored to meet your unique financial needs. With a wide range of products and services, including personal banking, business solutions, and wealth management, we strive to offer secure, convenient, and innovative banking experiences. ",
     img: "/mcsb.png",
     iconLists: ["/css.svg", "/html.svg", "/google.svg"],
     link: "/https://lively-flan-a3bbe6.netlify.app/",
