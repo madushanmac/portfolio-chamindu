@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently building a Meal Recomondation app",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -72,8 +72,8 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "EV Charge App/Mobile ",
+    des: "Explore the wonders of super charge system with this mobile app by using charging points.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "/ui.earth.com",
@@ -107,40 +107,34 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Chamindu was an incredible experience. His attention to detail, timely communication, and commitment to producing high-quality work were remarkable. Chamindu's passion for every aspect of development truly sets him apart. If you're looking to enhance your website and elevate your brand, Chamindu is the perfect partner.",
+    name: "Nimal Perera",
+    title: "CEO of LankaTech Solutions",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Chamindu's collaboration on our project was exceptional. His professionalism, swift responses, and dedication to achieving outstanding results were evident throughout our engagement. Chamindu's enthusiasm for development is truly inspiring. For anyone looking to improve their website and strengthen their brand, Chamindu is the ideal choice.",
+    name: "Priya Wijesekara",
+    title: "Managing Director of Serendib Innovations",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Teaming up with Chamindu was an absolute delight. His expertise, promptness, and unwavering commitment to delivering excellent outcomes were consistent throughout our project. Chamindu's enthusiasm for every element of development is noteworthy. If you need to upgrade your website and boost your brand, Chamindu is your go-to professional.",
+    name: "Buddika Fernando",
+    title: "Founder of Ceylon Cloud PVT",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Chamindu was a fantastic experience. His meticulous approach, timely responses, and dedication to achieving superior results were apparent during our project. Chamindu's passion for development is truly commendable. If you're aiming to enhance your website and elevate your brand, Chamindu is the ideal partner.",
+    name: "Sunethra Jayawardene",
+    title: "Director of TechWave Sri Lanka",
   },
 ];
 
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
+    name: "cloud",
     img: "/cloud.svg",
     nameImg: "/cloudName.svg",
   },
@@ -192,13 +186,13 @@ export const workExperience = [
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
-  {
-    id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
-    className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
-  },
+  // {
+  //   id: 4,
+  //   title: "Lead Frontend Developer",
+  //   desc: "Developed and maintained user-facing features using modern frontend technologies.",
+  //   className: "md:col-span-2",
+  //   thumbnail: "/exp4.svg",
+  // },
 ];
 
 export const socialMedia = [
